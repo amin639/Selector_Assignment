@@ -1,0 +1,59 @@
+/* Universal selector : */
+/* *{
+    color: red;
+} */
+
+
+
+/* Type Selctor  */
+    /* single element */
+/* h1{
+    color: red;
+} */
+
+
+/* multi  element  */
+/* h1,span{
+    color: red;
+} */
+
+
+
+/* Class Selector 
+.khan{
+    color:red
+} */
+
+
+
+/* Id selector  */
+/* #king{
+    color: red;
+} */
+
+
+
+/* Child Selector  */
+/* span > p{
+    color: red;
+} */
+
+
+
+/* Descendent Selector */
+/* div p{
+    color: red;
+} */
+
+
+
+/* Adjacent sibling selector */
+/* h1+p{
+    color: red;
+} */
+
+
+/* General Sibling selector  */
+h1~p{
+    color: red;
+}
